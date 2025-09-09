@@ -7,7 +7,9 @@
     "start": "expo start",
     "android": "expo run:android",
     "ios": "expo run:ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "lint": "echo 'no lint'",
+    "build": "echo 'Build handled by EAS'"
   },
   "dependencies": {
     "expo": "^51.0.0",
